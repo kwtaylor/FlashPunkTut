@@ -1,0 +1,25 @@
+<level width="6000" height="1000" gravAccel="3000" termVel="1000">
+  <camera x="0" y="512" />
+  <Collision>
+    <CollideBlock id="0" x="112" y="848" width="256" height="64" fric="1" />
+    <CollideBlock id="1" x="48" y="528" width="64" height="272" fric="1" />
+    <CollideBlock id="2" x="256" y="688" width="144" height="16" fric="1" />
+    <CollideBlock id="3" x="448" y="656" width="64" height="176" fric="1" />
+    <CollideBlock id="4" x="368" y="912" width="608" height="16" fric="0.1" />
+    <CollideBlock id="6" x="880" y="576" width="112" height="336" fric="1" />
+    <CollideBlock id="7" x="640" y="624" width="144" height="80" fric="1" />
+    <CollideBlock id="8" x="0" y="992" width="6000" height="16" fric="1" />
+    <CollideBlock id="9" x="4416" y="336" width="128" height="144" fric="1" />
+    <CollideBlock id="10" x="5984" y="368" width="16" height="624" fric="1" />
+    <CollideBlock id="11" x="992" y="736" width="288" height="64" fric="1" />
+    <CollideBlock id="12" x="720" y="416" width="288" height="16" fric="1" />
+    <CollideBlock id="13" x="0" y="352" width="16" height="640" fric="1" />
+    <CollideBlock id="14" x="496" y="272" width="192" height="64" fric="1" />
+    <CollideBlock id="15" x="752" y="144" width="464" height="48" fric="1" />
+    <CollideBlock id="16" x="352" y="48" width="224" height="32" fric="1" />
+    <CollideBlock id="17" x="496" y="272" width="192" height="64" fric="1" />
+  </Collision>
+  <Entities>
+    <PlayerStart id="0" x="303" y="712" />
+  </Entities>
+</level>

@@ -1,0 +1,4 @@
+[submodule "FlashPunk"]
+	path = FlashPunk
+	url = https://github.com/kwtaylor/FlashPunk.git
+	branch = mods
